@@ -1,0 +1,5 @@
+Query1: Constitutional Preceedings
+Query2: High Court Preeceedings
+Query3: Court judegements
+Query4: Theif Judgements
+Query5: Procastination Judgements

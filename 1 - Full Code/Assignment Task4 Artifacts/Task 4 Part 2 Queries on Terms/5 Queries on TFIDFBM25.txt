@@ -1,0 +1,38 @@
+TFIDF
+con	cons, constitution, constitutional, constable
+sta	stable, stadium, stack, stain, stamp, stand, standalone
+pro	procure, procastination. process, proclaim proceedings
+court	high court, supreme court
+men	mention, mental, menial, menace
+ear	earth, earn, early
+pre	preacher precaution preceedings, precise, prediction, preferable, preface, prejudic
+thi	thicket thick thief thi thir think
+per	permit personal premission prejure premissabble permit periop perform percolation perfect persistance
+judg	judge judging judged judgement
+BM25
+resent	resented resentment
+present	presentation presenting presented presents presented
+hear	hearing heard hearer heard
+justic	justice justiceable justicability
+date	dated datewise dating dated
+sent	sent sentiment sentence sentencing
+jurisdict	jurisdiction jurisdictional jurisdictions
+juri	jury jurys juror juristic jurisprudence jurisdiction
+pass	pass passages passenger passcode passed passedout passcode passes passion passenger passengers
+suprem	suprema supremaci supreme
+
+
+Query 1: judge heard earth cases
+Query 2: judges as jurist
+Query 3: supreme court hearers
+Query 4: represent court
+Query 5: supreme court mental cases
+
+Other Optional
+Query 6: jury court hearing
+Query 7: jury present in court
+Query 8: judge jurisdiction
+Query 9: court sentence hearing
+Query 10: court sentence hearing
+Query 11: supreme court justice in jury
+Query 12: jury hearing thief

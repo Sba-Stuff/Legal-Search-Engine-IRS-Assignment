@@ -1,0 +1,11 @@
+TermID	Term	Possible Strings
+2253 	con	cons, constitution, constitutional, constable, 
+10820 	sta	stable, stadium, stack, stain, stamp, stand, standalone
+8846 	pro	procure, procastination. process, proclaim proceedings
+2522 	court	high court, supreme court
+6907 	men	mention, mental, menial, menace
+3370 	ear	earth, earn, early
+8714 	pre	preacher precaution preceedings, precise, prediction, preferable, preface, prejudic
+11496 	thi	thicket thick thief thi thir think
+8381 	per	permit personal premission prejure premissabble permit periop perform percolation perfect persistance
+5842 	judg	judge judging judged judgement

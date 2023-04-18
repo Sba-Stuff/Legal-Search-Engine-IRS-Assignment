@@ -1,0 +1,40 @@
+TFIDF Q1
+Precision: 3/100		0.03
+Recall: 3/15          	0.20
+
+TFIDF Q2
+Precision: 2/100		0.02
+Recall: 2/9		0.22		
+
+TFIDF Q3
+Precision: 4/100		0.04
+Recall: 4/5		0.80		
+
+TFIDF Q4
+Precision: 12/100	0.12
+Recall: 12/32		0.38		
+
+TFIDF Q5
+Precision: 3/100		0.03
+Recall: 3/8		0.38
+
+
+BM25 Q1
+Precision: 9/100		0.09
+Recall: 9/15		0.16
+
+BM25 Q2
+Precision: 6/100		0.06
+Recall: 6/9		0.60
+
+BM25 Q3
+Precision: 5/100		0.05
+Recall: 5/5		1
+
+BM25 Q4	
+Precision: 26/100	0.26	
+Recall: 26/32		0.81
+
+BM25 Q5
+Precision: 6/100		0.06
+Recall: 6/8		0.75

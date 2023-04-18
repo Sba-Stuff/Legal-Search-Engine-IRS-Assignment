@@ -1,0 +1,11 @@
+Term	TF-IDF
+resent	342.875
+present	342.756
+hear	341.416
+justic	339.016
+date	334.259
+sent	329.622
+jurisdict	325.002
+juri	323.106
+pass	323.075
+suprem	321.197

@@ -1,0 +1,11 @@
+Termid	Term	
+9582	resent	resented resentment
+8783 	present	presentation presenting presented presents presented
+4855 	hear	hearing heard hearer heard
+5894 	justic	justice justiceable justicability
+2729 	date	dated datewise dating dated
+10233 	sent	sent sentiment sentence sentencing
+5884 	jurisdict	jurisdiction jurisdictional jurisdictions
+5882 	juri	jury jurys juror juristic jurisprudence jurisdiction
+8288 	pass	pass passages passenger passcode passed passedout passcode passes passion passenger passengers
+11134 	suprem	suprema supremaci supreme

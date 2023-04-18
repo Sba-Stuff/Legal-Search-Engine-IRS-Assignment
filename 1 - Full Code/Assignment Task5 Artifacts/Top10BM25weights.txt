@@ -1,0 +1,68 @@
+Query Term: judg hear thi
+Weighting Scheme: BM25
+C.P._2790_2018.pdf,0.00414
+C.P._2853_2018.pdf,0.00402
+Crl.O.P_36_2017.pdf,0.00362
+C.M.A.6309_2018_14072018.pdf,0.00353
+C.A._1203_2014.pdf,0.00334
+S.M.C._12_2015.pdf,0.00323
+C.A._1338_2007.pdf,0.00312
+Crl.A._429_2017.pdf,0.00312
+C.A._25_K_2018.pdf,0.00308
+C.P._3728_2017.pdf,0.00305
+
+
+Query Term: judg juri
+Weighting Scheme: BM25
+C.P._2814_2018.pdf,0.00173
+C.P._2790_2018.pdf,0.00157
+C.P._2853_2018.pdf,0.00153
+S.M.C._28_2018.pdf,0.00145
+Crl.O.P_36_2017.pdf,0.00137
+C.M.A.6309_2018_14072018.pdf,0.00134
+JR_Varan_Case.pdf,0.00133
+Crl.M.A._200_2019.pdf,0.00131
+Const.P._29_2017.pdf,0.00128
+C.A._1203_2014.pdf,0.00127
+
+
+Query Term: suprem court hear
+Weighting Scheme: BM25
+C.P._2814_2018.pdf,0.00461
+JR_Appointment_of_Supreme_Court_Judges_Case.pdf,0.0042
+C.P._2790_2018.pdf,0.00419
+C.P._2853_2018.pdf,0.00407
+Crl.O.P_36_2017.pdf,0.00366
+C.M.A.6309_2018_14072018.pdf,0.00357
+C.A._1203_2014.pdf,0.00338
+JR_Constitution_Petition_No_38_of_2002_and_more_of_2003.pdf,0.00335
+S.M.C._12_2015.pdf,0.00326
+C.A._1338_2007.pdf,0.00316
+
+
+Query Term: present court
+Weighting Scheme: BM25
+C.P._2814_2018.pdf,0.00377
+JR_Appointment_of_Supreme_Court_Judges_Case.pdf,0.00343
+C.P._2790_2018.pdf,0.00342
+C.P._2853_2018.pdf,0.00332
+Crl.O.P_36_2017.pdf,0.00299
+C.M.A.6309_2018_14072018.pdf,0.00292
+C.A._1203_2014.pdf,0.00276
+JR_Constitution_Petition_No_38_of_2002_and_more_of_2003.pdf,0.00274
+S.M.C._12_2015.pdf,0.00266
+C.A._1338_2007.pdf,0.00258
+
+
+Query Term: suprem court juri
+Weighting Scheme: BM25
+C.P._2814_2018.pdf,0.00292
+JR_Appointment_of_Supreme_Court_Judges_Case.pdf,0.00266
+C.P._2790_2018.pdf,0.00265
+C.P._2853_2018.pdf,0.00257
+Crl.O.P_36_2017.pdf,0.00232
+C.M.A.6309_2018_14072018.pdf,0.00226
+C.A._1203_2014.pdf,0.00214
+JR_Constitution_Petition_No_38_of_2002_and_more_of_2003.pdf,0.00212
+S.M.C._12_2015.pdf,0.00206
+C.A._1338_2007.pdf,0.002

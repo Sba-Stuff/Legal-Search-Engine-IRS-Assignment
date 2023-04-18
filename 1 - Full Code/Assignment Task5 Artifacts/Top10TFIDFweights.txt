@@ -1,0 +1,68 @@
+Query Term: judg hear thi
+Weighting Scheme: TFIDF
+C.P._2790_2018.pdf,0.00883
+C.P._2853_2018.pdf,0.00858
+Crl.O.P_36_2017.pdf,0.00772
+C.M.A.6309_2018_14072018.pdf,0.00753
+C.A._1203_2014.pdf,0.00712
+S.M.C._12_2015.pdf,0.00688
+C.A._1338_2007.pdf,0.00666
+Crl.A._429_2017.pdf,0.00665
+C.A._25_K_2018.pdf,0.00657
+C.P._3728_2017.pdf,0.0065
+
+
+Query Term: judg juri
+Weighting Scheme: TFIDF
+C.P._2814_2018.pdf,0.00352
+C.P._2790_2018.pdf,0.0032
+C.P._2853_2018.pdf,0.00311
+Crl.O.P_36_2017.pdf,0.00279
+C.M.A.6309_2018_14072018.pdf,0.00273
+C.A._1203_2014.pdf,0.00258
+S.M.C._12_2015.pdf,0.00249
+C.A._1338_2007.pdf,0.00241
+Crl.A._429_2017.pdf,0.00241
+C.A._25_K_2018.pdf,0.00238
+
+
+Query Term: suprem court hear
+Weighting Scheme: TFIDF
+C.P._2814_2018.pdf,0.01041
+JR_Appointment_of_Supreme_Court_Judges_Case.pdf,0.00948
+C.P._2790_2018.pdf,0.00945
+C.P._2853_2018.pdf,0.00918
+Crl.O.P_36_2017.pdf,0.00826
+C.M.A.6309_2018_14072018.pdf,0.00806
+C.A._1203_2014.pdf,0.00762
+JR_Constitution_Petition_No_38_of_2002_and_more_of_2003.pdf,0.00757
+S.M.C._12_2015.pdf,0.00736
+C.A._1338_2007.pdf,0.00713
+
+
+Query Term: present court
+Weighting Scheme: TFIDF
+C.P._2814_2018.pdf,0.00847
+JR_Appointment_of_Supreme_Court_Judges_Case.pdf,0.00771
+C.P._2790_2018.pdf,0.00768
+C.P._2853_2018.pdf,0.00747
+Crl.O.P_36_2017.pdf,0.00672
+C.M.A.6309_2018_14072018.pdf,0.00655
+C.A._1203_2014.pdf,0.0062
+JR_Constitution_Petition_No_38_of_2002_and_more_of_2003.pdf,0.00615
+S.M.C._12_2015.pdf,0.00599
+C.A._1338_2007.pdf,0.0058
+
+
+Query Term: suprem court juri
+Weighting Scheme: TFIDF
+C.P._2814_2018.pdf,0.00719
+JR_Appointment_of_Supreme_Court_Judges_Case.pdf,0.00655
+C.P._2790_2018.pdf,0.00652
+C.P._2853_2018.pdf,0.00634
+Crl.O.P_36_2017.pdf,0.0057
+C.M.A.6309_2018_14072018.pdf,0.00556
+C.A._1203_2014.pdf,0.00526
+JR_Constitution_Petition_No_38_of_2002_and_more_of_2003.pdf,0.00522
+S.M.C._12_2015.pdf,0.00508
+C.A._1338_2007.pdf,0.00492
