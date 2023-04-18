@@ -1,0 +1,13 @@
+Category / Class			Name Number of Judgments
+civil Appeal			41
+Civil Misc Application			4
+Civil Petition			34
+Constitution Petition			9
+Criminal Appeal			13
+Criminal Mislineous Application		3
+Criminal Orignal Pition		3
+Criminal Petition			2
+Human Right			9
+Jail Petition			2
+Original Jurisdiction			16
+Suo Moto Case			10
